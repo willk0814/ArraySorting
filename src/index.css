@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  text-align: center;
+}
+
+#toolbar{
+  text-align: center;
+}
+
+#sort_button{
+  padding: 5px 10px;
+  display: inline-block;
+  color: blue;
+}
+
+p{
+  text-align: center;
+}
+
+.arr{
+  color: green;
+  border: 1px;
+  display: inline-block;
+  background-color: green;
+}
+
+#out_container{
+  text-align: center;
+}
